@@ -48,7 +48,5 @@ class SessionGuard extends LaravelSessionGuard
         if (! $user instanceof GuestContract) {
             return $user;
         }
-
-        throw new AuthenticationException();
     }
 }
