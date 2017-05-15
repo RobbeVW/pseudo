@@ -1,5 +1,5 @@
 {
-    "name": "agilesdesign/pseudo",
+    "name": "robbevw/pseudo",
     "description": "Guest user library for Laravel",
     "type": "library",
     "require": {
